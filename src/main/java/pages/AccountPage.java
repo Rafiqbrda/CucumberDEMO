@@ -10,7 +10,8 @@ public class AccountPage {
   WebDriver driver;
 	
 	
-	public AccountPage(WebDriver driver) {       HELLOW CHANGE? kaku
+	public AccountPage(WebDriver driver) {       HELLOW CHANGE? kaku ( Is okey now)  
+
 	this.driver = driver;
 	PageFactory.initElements(driver, this);
 	}	
