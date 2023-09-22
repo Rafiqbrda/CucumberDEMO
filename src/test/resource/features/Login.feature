@@ -9,10 +9,10 @@
     
     Then User should get successfully loggedin
       
-    Examples: 
-      |    username             | passw3ord | 
+    Examples:                                                    
+      |    username             | passw3ord |    public void setup(){
       |  rafiqueltaj@yahoo.com  | Raita9660 | 
-      
+                                                    }
       
 	   
     Scenario Outline: Login with invalid credentials
