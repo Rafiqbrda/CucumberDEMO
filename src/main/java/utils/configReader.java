@@ -6,7 +6,7 @@ import java.util.Properties;
 
 public class configReader {
 
-	    //public static void initializeProperties() {
+	    //public static void initializeProperties(GOOD Job, Rafiq) {
     public static Properties initializeProperties() {
 	Properties prop = new Properties();
 	File proFile = new File(System.getProperty("user.dir")+"\\src\\test\\resource\\config\\config.properties");
